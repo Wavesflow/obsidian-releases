@@ -19250,3 +19250,11 @@
     "repo": "santiyounger/wpm-reading-time"
   }
 ]
+
+{
+  "id": "export-note-bundle",
+  "name": "Export Note Bundle",
+  "author": "Negative Boson (负性玻色子)",
+  "description": "Export notes, folders, canvases, and referenced assets into portable bundles while preserving nested folder structure.",
+  "repo": "Wavesflow/obsidian-export-note-bundle"
+}
